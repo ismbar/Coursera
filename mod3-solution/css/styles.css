@@ -1,0 +1,36 @@
+.navbar {
+  background-color: #A9A9A9;
+  padding: 0px;
+  height: 140px;
+  border: solid 2px #DC143C;
+}
+.container {
+  position: relative;
+}
+h1 {
+  width: 200px;
+  box-sizing: border-box;
+  border: none;
+  color: #000000;
+}
+h2 {
+  text-align: center;
+  padding-bottom: 25px;
+}
+.row {
+  background-color: #BDB76B;
+  margin: -10px;
+  height: auto;
+  text-overflow: ellipsis;
+}
+h3 {
+  text-align: center;
+}
+p {
+  margin: 10px;
+}
+button {
+position: absolute;
+right: 0px;
+top: 0px;
+}
